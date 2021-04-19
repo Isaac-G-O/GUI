@@ -27,6 +27,7 @@ public class Examen extends javax.swing.JFrame {
         this.jLabelMal.setVisible(false);
         this.jTextFieldRes.requestFocus();
         this.jButtonSiguiente.setEnabled(false);
+        System.out.println("Esto es una moodificacion");
     }
     
     
