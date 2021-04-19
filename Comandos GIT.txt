@@ -1,0 +1,9 @@
+Comandos GIT
+
+git branch -M main  	Para cambiar el owner
+git push origin main  	Actualizar GitHub
+git clone url 			GitHub a Git
+git add					Agregar archivos
+git commit				Modificar el proyecto con los archivos agregados
+git commit -a 			Hacer cambios de archivos modificados
+git satus 				
