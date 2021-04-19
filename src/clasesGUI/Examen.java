@@ -28,6 +28,7 @@ public class Examen extends javax.swing.JFrame {
         this.jTextFieldRes.requestFocus();
         this.jButtonSiguiente.setEnabled(false);
         System.out.println("Esto es una moodificacion");
+        System.out.println("asd");
     }
     
     
